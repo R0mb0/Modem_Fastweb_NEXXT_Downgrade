@@ -132,3 +132,5 @@ DECIMAL       HEXADECIMAL     ENTROPY
 254976        0x3E400         Rising entropy edge (0.957781)
 258048        0x3F000         Falling entropy edge (0.303144)
 ```
+
+Livelli di entropia così alti mi fanno sospettare che le memorie siano cifrate
