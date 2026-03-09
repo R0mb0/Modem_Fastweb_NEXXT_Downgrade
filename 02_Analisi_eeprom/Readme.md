@@ -107,6 +107,7 @@ DECIMAL       HEXADECIMAL     ENTROPY
 402432        0x62400         Rising entropy edge (0.972083)
 403456        0x62800         Falling entropy edge (0.449113)
 ```
+![Vecchio.png](https://github.com/R0mb0/Modem_Fastweb_NEXXT_Downgrade/blob/main/02_Analisi_eeprom/Images/Vecchio.png)
 
 ### Modem nuovo
 
@@ -132,5 +133,6 @@ DECIMAL       HEXADECIMAL     ENTROPY
 254976        0x3E400         Rising entropy edge (0.957781)
 258048        0x3F000         Falling entropy edge (0.303144)
 ```
+![Nuovo.png](https://github.com/R0mb0/Modem_Fastweb_NEXXT_Downgrade/blob/main/02_Analisi_eeprom/Images/Nuovo.png)
 
 Livelli di entropia così alti mi fanno sospettare che le memorie siano cifrate
