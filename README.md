@@ -1,6 +1,6 @@
 # Modem_Fastweb_NEXXT_Downgrade
 
-## ⚠️ Questo è un esperimento senza fini di lucro fatto solo per imparare i principi dell'informatica utilizzando hadware economico. ⚠️
+## ⚠️ Questo è un esperimento senza fini di lucro fatto solo per imparare i principi dell'informatica utilizzando hardware economico. ⚠️
 
 Esperimento scientifico accademico dove provo a fare il downgrade di un modem fastweb nexxt. 
 
